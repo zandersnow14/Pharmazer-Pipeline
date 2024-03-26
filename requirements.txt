@@ -1,0 +1,10 @@
+pandas
+spacy
+country_converter
+geonamescache
+rapidfuzz
+python-dotenv
+s3fs
+boto3
+pylint
+pandarallel
